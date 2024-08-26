@@ -1,4 +1,5 @@
 # Lessons To Learn
+- FunCard: assumptions, drawbacks, time complexity
 - Naive Bayes
 - XGBoost
 - Scikit learn libraries parameters
